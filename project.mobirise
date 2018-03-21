@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "ADP AA Caucus",
+    "name": "ADP Native American Caucus",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -43,7 +43,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/19campaign.600-600x360.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/32915-2000x1319.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -58,9 +58,9 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.5"
           },
-          "title": "African American Community<br>",
-          "text": "<b>\"Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.\"<br><br>-Barack Obama</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://survey.azblueleader.com/index.php/873144?lang=en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the African American Caucus</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://en.wikipedia.org/wiki/ActBlue\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a>  ",
+          "title": "Native American<br>Community",
+          "text": "<b>\"In our every deliberation, we must consider the impact of our decisions on the next seven generations. \"<br></b>\n<br><b>- Iroquois Maxim (circa 1700-1800)<br></b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://survey.azblueleader.com/index.php/215595?lang=en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the Native American Caucus</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://en.wikipedia.org/wiki/ActBlue\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a>  ",
           "_tags": [
             "Theme"
           ],
@@ -104,7 +104,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-810x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1625476_388338674636534_1443980877_n-625x374.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -198,31 +198,31 @@
             "bgColor": "#3c3c3c",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/21752301-10155025160953364-7838287671132055963-n-1-960x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/21752301-10155025160953364-7838287671132055963-n-1-960x720-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/21687882_1062512670552461_1719575969999081933_n-562x440.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/21687882-1062512670552461-1719575969999081933-n-562x440-540x352.jpg",
                 "alt": "",
-                "caption": "Promoting Democracy",
+                "caption": "Met our newest ADP Native American Caucus member Stephen Lewis, (left) Governor of the Gila River Indian Community with Kyle Blackhorse, ADP Native American Caucus Chair. (right)",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/22549682-10155099096753364-5376310726768829246-n-1-720x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/22549682-10155099096753364-5376310726768829246-n-1-720x960-720x474.jpg",
+                "image": "@PROJECT_PATH@/assets/images/555179_231268687010201_865034846_n-1-480x376.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/555179-231268687010201-865034846-n-1-480x376-372x370.jpg",
                 "alt": "",
-                "caption": "Caucus Info Session",
+                "caption": "Local Leaders!",
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/391758-10151011934796671-564761565-n-960x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/391758-10151011934796671-564761565-n-960x720-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13767392_808768245926906_3575204960362548837_o-1529x2048.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13767392-808768245926906-3575204960362548837-o-1529x2048-800x697.jpg",
                 "alt": "",
-                "caption": "Thank you!",
+                "caption": "Arizona DNC Hillary Delegate Ben Nuvamsa and Former Governor George Rivera, Pueblo of Pojoaque. DNC Native Council Meeting",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/11062548-10152990788598364-3806869126842906007-n-960x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/11062548-10152990788598364-3806869126842906007-n-960x720-800x420.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12809731_745263835610681_7673925304892267885_n-919x645.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12809731-745263835610681-7673925304892267885-n-919x645-800x561.jpg",
                 "alt": "",
-                "caption": "Local leaders",
+                "caption": "Community Work",
                 "active": false
               }
             ]
@@ -268,12 +268,12 @@
             "overlayOpacity": 0.5
           },
           "headerAlign": "left",
-          "header": "Our African American Community",
+          "header": "Our Native American Community",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sdt-2012-12-26-bvote-2-295x449.png",
+              "src": "@PROJECT_PATH@/assets/images/ft_14.06.12_standingrock-race-420x920.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -290,13 +290,13 @@
               "size": 0
             }
           },
-          "title1": "<br>Ballot Power",
-          "caption1": "\"Blacks voted at a higher rate this year than other minority groups and for the first time in history may also have voted at a higher rate than whites, according to a Pew Research Center analysis of census data, election day exit poll data and vote totals from selected cities and counties.\" <br><br><br>- <a href=\"http://www.pewsocialtrends.org/2012/12/26/the-growing-electoral-clout-of-blacks-is-driven-by-turnout-not-demographics/\" target=\"_blank\">Pew Social Trends</a>",
+          "title1": "<br>Education",
+          "caption1": "- <a href=\"http://www.pewresearch.org/fact-tank/2014/06/13/1-in-4-native-americans-and-alaska-natives-are-living-in-poverty/\" target=\"_blank\">Pew Research Center</a><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ft-18.02.21-wealth-gap-blackwhite-310x507.png",
+              "src": "@PROJECT_PATH@/assets/images/ft_14.06.12_standingrock-tribe-420x625.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -314,7 +314,7 @@
             }
           },
           "title2": "<br><br>Economic Issues",
-          "caption2": "\"Black households have only 10 cents in wealth for every dollar held by white households.\"<br><br>- <a href=\"http://www.pewresearch.org/fact-tank/2018/02/22/5-facts-about-blacks-in-the-u-s/\" target=\"_blank\">Pew Research Center</a>",
+          "caption2": "\"About one-in-four American Indians and Alaska Natives were living in poverty in 2012.\"<br><br>- <a href=\"http://www.pewresearch.org/fact-tank/2014/06/13/1-in-4-native-americans-and-alaska-natives-are-living-in-poverty/\" target=\"_blank\">Pew Research Center</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -413,12 +413,12 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": false,
-            "bgColor": "#5b4a41",
+            "bgColor": "#3c3c3c",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">African American Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">African American Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Community Partners<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Native American Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">Native American Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building -&nbsp;DemsForYou&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\" target=\"_blank\">DONATE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -432,10 +432,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#5b4a41"
+              "background": "#3c3c3c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#4f4039"
+              "background": "#323232"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -444,7 +444,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/african-american-cacus-102x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13882157_806901639446900_2238902373747013066_n-148x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -452,7 +452,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ADP African American Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ADP Native American Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-12"
         },
@@ -461,7 +461,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-810x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1625476_388338674636534_1443980877_n-625x374.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#f0f0f0",
@@ -470,7 +470,7 @@
             "overlayOpacity": 0.5
           },
           "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/AZAADC/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/AdpNativeAmericanCaucus/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_tags": [
             "Theme"
           ],
@@ -491,7 +491,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#5b4a41",
+            "bgColor": "#3c3c3c",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5,
@@ -520,14 +520,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#5b4a41",
+            "bgColor": "#3c3c3c",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/african-american-cacus-265x332.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13882157_806901639446900_2238902373747013066_n-148x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -541,9 +541,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: African American Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azafricanamericancaucus.org<br>Phone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\" class=\"text-black\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\" class=\"text-black\">Democratic National Committee</a></li><li><br></li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Native American Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@aznativeamericancaucus.org<br>Phone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\" class=\"text-info\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\" class=\"text-info\">Democratic National Committee</a></li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -590,7 +590,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/14089278-10210701237512852-718931367247375366-n-1-540x960.jpg",
+              "src": "@PROJECT_PATH@/assets/images/10354749_528651733938560_3487604936293680338_n-252x408.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -618,8 +618,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Quiana Dickenson, Chair",
-          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: ?<br>Email: chair@azafricanamericancaucus.org<br>",
+          "title": "Kyle Blackhorse, Chairperson<br><br>",
+          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: ?<br>Email: chair@aznativeamericancaucus.org<br>",
           "_tags": [
             "Theme"
           ],
@@ -639,7 +639,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/703583-10152191591524042-898690244-o-1296x1936.jpg",
+              "src": "@PROJECT_PATH@/assets/images/11039265_10204522037348774_8939119435733950359_n-320x320.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -662,8 +662,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Henry Wade, Assistant Chair",
-          "meta": "<br>Hello,<br><br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:<br><br>Sincerely,<br><br>Signer<br><br>Phone: (602) 619-4440\n<br>Email: hwade@azafricanamericancaucus.org<br>",
+          "title": "Joanne Romero, Vice Chairperson<br><br>",
+          "meta": "<br>Hello,<br><br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:<br><br>Sincerely,<br><br>Signer<br><br>Phone: (602) 619-4440\n<br>Email: hwade@aznativeamericancaucus.org<br>",
           "_tags": [
             "Theme"
           ],
@@ -686,7 +686,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/670fafb091ce2e6d71d6d92202a2a3f3-4-640x607.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1003379_10201108069881704_444524729_n-422x336.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -709,8 +709,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Mahogany Cherry, Secretary",
-          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: ?<br>Email: secretary@azafricanamericancaucus.org<br>",
+          "title": "Lisa Blackhorse, Secretary\n<br><br>",
+          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: ?<br>Email: secretary@aznativeamericancaucus.org<br>",
           "_tags": [
             "Theme"
           ],
@@ -733,7 +733,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10464223-10154252934845333-8533746285927132647-n-960x960.jpg",
+              "src": "@PROJECT_PATH@/assets/images/26169895_10109019728937801_4541157361238519640_n-960x540.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -756,8 +756,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "\n<div>Connie DeLarge, Treasurer</div>",
-          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: ?<br>Email: treasurer@azafricanamericancaucus.org<br>",
+          "title": "\n<div>Brian Garcia, Treasurer</div><br><div>\n</div><div>\n</div>",
+          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: ?<br>Email: treasurer@aznativeamericancaucus.org<br>",
           "_tags": [
             "Theme"
           ],
@@ -780,14 +780,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#5b4a41",
+            "bgColor": "#3c3c3c",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/african-american-cacus-265x332.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13882157_806901639446900_2238902373747013066_n-148x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -801,9 +801,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: African American Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azafricanamericancaucus.org<br>Phone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\" class=\"text-black\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\" class=\"text-black\">Democratic National Committee</a></li><li><br></li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Native American Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@aznativeamericancaucus.org<br>Phone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\" class=\"text-info\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\" class=\"text-info\">Democratic National Committee</a></li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -823,12 +823,12 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": false,
-            "bgColor": "#5b4a41",
+            "bgColor": "#3c3c3c",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">African American Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">African American Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Community Partners<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Native American Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">Native American Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building -&nbsp;DemsForYou&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\" target=\"_blank\">DONATE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -854,7 +854,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/african-american-cacus-102x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13882157_806901639446900_2238902373747013066_n-148x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -862,7 +862,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ADP African American Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ADP Native American Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
         }
@@ -917,7 +917,7 @@
             "overlayOpacity": 0.2
           },
           "title": "Mission",
-          "text": "<p>The goals of the AAC in order of importance are to:\n</p><p>1. Increase the number of Precinct Committee Persons (PC)\n</p><p>2. Increase the number of registered African Americans\n</p><p>3. “Get out the vote efforts” (“GOTV”)&nbsp;</p>",
+          "text": "<p>The Arizona Democratic Party Native American Caucus (ADPNAC) mission is to affirm for ourselves and our future generations the inherent sovereign rights of Native Nations, to protect and strengthen significant sites, cultural and spiritual practices, ancestral and future homelands of Native American peoples, and to ensure a healthy, prosperous future for Native Americans.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -968,7 +968,7 @@
             "overlayOpacity": 0.2
           },
           "title": "Vision",
-          "text": "<p>The Arizona African American Caucus seeks to encourage political participation and education within the African American community and encourage African Americans to seek public office at all levels. We also fight for equality for African Americans by advocating for issues such as educational, economic, criminal, healthcare and immigration justice and ensuring voting rights and protection for all.  \n</p><p><br></p>",
+          "text": "<p>The Arizona Democratic Party Native American Caucus (ADPNAC) mission is to affirm for ourselves and our future generations the inherent sovereign rights of Native Nations, to protect and strengthen significant sites, cultural and spiritual practices, ancestral and future homelands of Native American peoples, and to ensure a healthy, prosperous future for Native Americans.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -985,12 +985,12 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": false,
-            "bgColor": "#5b4a41",
+            "bgColor": "#3c3c3c",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">African American Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">African American Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Community Partners<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Native American Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">Native American Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building -&nbsp;DemsForYou&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\" target=\"_blank\">DONATE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1016,7 +1016,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/african-american-cacus-102x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13882157_806901639446900_2238902373747013066_n-148x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1024,7 +1024,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ADP African American Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ADP Native American Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
         },
@@ -1036,14 +1036,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#5b4a41",
+            "bgColor": "#3c3c3c",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/african-american-cacus-265x332.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13882157_806901639446900_2238902373747013066_n-148x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1057,9 +1057,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: African American Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azafricanamericancaucus.org<br>Phone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\" class=\"text-black\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\" class=\"text-black\">Democratic National Committee</a></li><li><br></li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Native American Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@aznativeamericancaucus.org<br>Phone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\" class=\"text-info\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\" class=\"text-info\">Democratic National Committee</a></li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1099,7 +1099,7 @@
                 "title": "Who We Are",
                 "contentAlign": "right",
                 "text": "Tell your potential members who you are as a caucus here.",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://survey.azblueleader.com/index.php/873144?lang=en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the Caucus</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://survey.azblueleader.com/index.php/215595?lang=en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the Caucus</a>"
               },
               {
                 "image": "images/slide2.jpg",
@@ -1110,7 +1110,7 @@
                 "title": "What We Do",
                 "contentAlign": "left",
                 "text": "Tell your potential members what you do as a caucus here.",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://survey.azblueleader.com/index.php/873144?lang=en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the Caucus</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://survey.azblueleader.com/index.php/215595?lang=en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the Caucus</a>"
               },
               {
                 "image": "images/slide3.jpg",
@@ -1121,7 +1121,7 @@
                 "title": "Our Impact",
                 "contentAlign": "center",
                 "text": "Share your caucus success here!",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://survey.azblueleader.com/index.php/873144?lang=en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the Caucus</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://survey.azblueleader.com/index.php/215595?lang=en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the Caucus</a>"
               }
             ]
           },
@@ -1157,14 +1157,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#5b4a41",
+            "bgColor": "#3c3c3c",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/african-american-cacus-265x332.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13882157_806901639446900_2238902373747013066_n-148x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1178,9 +1178,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: African American Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azafricanamericancaucus.org<br>Phone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\" class=\"text-black\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\" class=\"text-black\">Democratic National Committee</a></li><li><br></li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Native American Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@aznativeamericancaucus.org<br>Phone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\" class=\"text-info\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\" class=\"text-info\">Democratic National Committee</a></li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1200,12 +1200,12 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": false,
-            "bgColor": "#5b4a41",
+            "bgColor": "#3c3c3c",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">African American Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">African American Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Community Partners<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Native American Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">Native American Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building -&nbsp;DemsForYou&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\" target=\"_blank\">DONATE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1219,10 +1219,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#5b4a41"
+              "background": "#3c3c3c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#4f4039"
+              "background": "#323232"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1231,7 +1231,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/african-american-cacus-102x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13882157_806901639446900_2238902373747013066_n-148x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1239,7 +1239,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ADP African American Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ADP Native American Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
         }
@@ -1468,14 +1468,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#5b4a41",
+            "bgColor": "#3c3c3c",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/african-american-cacus-265x332.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13882157_806901639446900_2238902373747013066_n-148x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1489,9 +1489,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: African American Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azafricanamericancaucus.org<br>Phone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\" class=\"text-black\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\" class=\"text-black\">Democratic National Committee</a></li><li><br></li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Native American Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@aznativeamericancaucus.org<br>Phone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\" class=\"text-info\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\" class=\"text-info\">Democratic National Committee</a></li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1511,12 +1511,12 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": false,
-            "bgColor": "#5b4a41",
+            "bgColor": "#3c3c3c",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">African American Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">African American Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Community Partners<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Native American Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">Native American Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building -&nbsp;DemsForYou&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\" target=\"_blank\">DONATE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1530,10 +1530,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#5b4a41"
+              "background": "#3c3c3c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#4f4039"
+              "background": "#323232"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1542,7 +1542,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/african-american-cacus-102x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13882157_806901639446900_2238902373747013066_n-148x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1550,7 +1550,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ADP African American Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ADP Native American Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
         }
@@ -1571,12 +1571,12 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": false,
-            "bgColor": "#5b4a41",
+            "bgColor": "#3c3c3c",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">African American Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">African American Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Community Partners<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Native American Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">Native American Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building -&nbsp;DemsForYou&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\" target=\"_blank\">DONATE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1590,10 +1590,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#5b4a41"
+              "background": "#3c3c3c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#4f4039"
+              "background": "#323232"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1602,7 +1602,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/african-american-cacus-102x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13882157_806901639446900_2238902373747013066_n-148x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1610,7 +1610,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ADP African American Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ADP Native American Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
         },
@@ -1622,14 +1622,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#5b4a41",
+            "bgColor": "#3c3c3c",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/african-american-cacus-265x332.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13882157_806901639446900_2238902373747013066_n-148x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1643,9 +1643,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: African American Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azafricanamericancaucus.org<br>Phone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\" class=\"text-black\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\" class=\"text-black\">Democratic National Committee</a></li><li><br></li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Native American Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@aznativeamericancaucus.org<br>Phone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\" class=\"text-info\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\" class=\"text-info\">Democratic National Committee</a></li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
